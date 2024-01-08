@@ -1,7 +1,7 @@
 public class Reverse   
 {    
     public static void main(String[] args) {    
-        String string = "Dream big";    
+        String string = "Gowtham Code";    
         //Stores the reverse of given string    
         String reversedStr = "";    
             
@@ -12,6 +12,7 @@ public class Reverse
             
         System.out.println("Original string: " + string);    
         //Displays the reverse of given string    
-        System.out.println("Reverse of given string: " + reversedStr);    
+        System.out.println("Reverse of given string: " + reversedStr);  
+
     }    
 }    
